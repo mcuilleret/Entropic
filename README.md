@@ -1,4 +1,6 @@
 # Entropic 
+The code used in the writing of the 'Resilience management for coastal fisheries facing with climate, demographic and price uncertainties' paper. 
+
 File "ResMSY-MEY-BAU_Trad_Sus_Del.sce" corresponds to the application of 3Rs framework from Grafton et al.
 Folders corresponds to the application of the different fishing strategies to our French Guiana case.
 
